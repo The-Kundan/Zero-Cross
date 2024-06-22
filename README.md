@@ -6,4 +6,3 @@ This is a tic tac toe game. This is a offline tic tac toe Game I developed. Curr
 <br>
 <b>NOTE:</b>
 You are free to use this project's source code.
-
